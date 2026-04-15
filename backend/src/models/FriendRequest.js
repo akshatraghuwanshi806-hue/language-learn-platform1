@@ -1,3 +1,4 @@
+//friend model for database
 import mongoose from "mongoose";
 
 const friendRequestSchema = new mongoose.Schema(
